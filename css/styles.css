@@ -13,7 +13,22 @@ body {
 
   h1{
     color: #76453B;
+    font-size: 50px;
   }
   h3{
     color: #76453B;
+  }
+  img:hover{
+    background-color: goldenrod;
+  }
+
+  .tihan{
+    background-color: #e3d5d3;
+  }
+  /*.circular{
+    border-radius: 150%;
+  }
+  */
+  #heading{
+    color:#76453B;
   }
